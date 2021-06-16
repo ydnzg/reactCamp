@@ -9,6 +9,7 @@ export default function Dashboard() {
             <Navi/>
             <Categories/>
             <ProductList/>
+            
         </div>
     )
 }
